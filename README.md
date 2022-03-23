@@ -1,4 +1,4 @@
-# CTIS221 P - Video Game & Customer Information System
+# CTIS221 Project - Video Game & Customer Information System
  
 ![ProjectUML](https://user-images.githubusercontent.com/29208395/159812634-e43a9ea6-1f08-4774-92ab-d17e195e72d1.png)
 
